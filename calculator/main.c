@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stddef.h>
+//#include <stddef.h>
 
 float operate (float a,float b,char op){
     switch(op){

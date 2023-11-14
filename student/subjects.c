@@ -1,7 +1,3 @@
-// Wayne Mwashuma
-//CIT-227-045/2022
-	
-	
 #include <stdio.h>
 #include <string.h>
 
